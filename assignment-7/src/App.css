@@ -1,0 +1,13 @@
+body {
+  background-color: #f1f5ff;
+  font-family: Arial, sans-serif;
+}
+
+.form-card {
+  max-width: 500px;
+  border-radius: 12px;
+}
+
+h2 {
+  margin-bottom: 25px;
+}
